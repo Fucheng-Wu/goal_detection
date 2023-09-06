@@ -1,1 +1,1 @@
-This folder contains motion graphics for the demo
+# This folder contains motion graphics for the demo
